@@ -1,2 +1,2 @@
-# doldrums.github.com
+# doldrumsz.github.io
 Work in progress
